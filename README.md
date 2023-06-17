@@ -34,7 +34,7 @@ python main.py
 3. Le graphique sera affiché dans une fenêtre séparée.
 
 ## Aperçu du graphique
-![Évolution en fonction du temps du nombre de candidats sans affectation sur Parcoursup en 2023](https://github.com/Ahhj93/Indicateur-Parcoursup-2023/assets/69793084/948dd6bf-fa68-4ade-9859-b5c44d4267da)
+![Évolution en fonction du temps du nombre de candidats sans affectation sur Parcoursup en 2023](https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20sans%20affectation%20sur%20Parcoursup%20en%202023.svg)
 
 ## Source des données
 Les données utilisées dans ce projet proviennent du tableau de bord des indicateurs statistiques de Parcoursup 2023, accessible à l'adresse suivante : https://www.enseignementsup-recherche.gouv.fr/fr/parcoursup-2023-tableau-de-bord-des-indicateurs-statistiques-91079
