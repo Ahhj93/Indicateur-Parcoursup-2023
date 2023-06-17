@@ -46,7 +46,7 @@ Les données utilisées dans ce projet sont distribuées sous la licence ouverte
 Le code source de ce projet est disponible sur GitHub à l'adresse suivante : [lien vers le dépôt GitHub](https://github.com/Ahhj93/Indicateur-Parcoursup-2023)
 
 ## Licence du code source
-Le code source de ce projet est distribué sous la licence MIT. Vous pouvez consulter les détails de cette licence dans le fichier LICENSE.
+Le code source de ce projet est distribué sous la licence MIT. Vous pouvez consulter les détails de cette licence dans le fichier [LICENSE](https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/LICENSE).
 
 Veuillez noter que les informations ci-dessus sont fournies à titre indicatif et que vous devez vous référer à la licence ouverte 2.0 d'Etalab pour les conditions spécifiques de réutilisation des données.
 
