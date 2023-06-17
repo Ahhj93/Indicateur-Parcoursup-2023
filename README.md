@@ -9,7 +9,7 @@ Ce projet vise à afficher l'évolution des candidats en attente sur Parcoursup 
 ## Installation
 1. Clonez ce dépôt de code sur votre machine locale :
 ```bash
-git lone https://github.com/Ahhj93/Indicateur-Parcoursup-2023.git
+git clone https://github.com/Ahhj93/Indicateur-Parcoursup-2023.git
 ````
 
 2. Accédez au répertoire du projet :
