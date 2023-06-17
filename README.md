@@ -9,7 +9,7 @@ Pandas
 ## Installation
 1. Clonez ce dépôt de code sur votre machine locale :
 ```bash
-git lone https://github.com/votre-utilisateur/Indicateur-Parcoursup-2023.git
+git lone https://github.com/Ahhj93/Indicateur-Parcoursup-2023.git
 ````
 
 2. Accédez au répertoire du projet :
@@ -36,9 +36,20 @@ python main.py
 ## Aperçu du graphique
 ![Évolution en fonction du temps du nombre de candidats sans affectation sur Parcoursup en 2023](https://github.com/Ahhj93/Indicateur-Parcoursup-2023/assets/69793084/948dd6bf-fa68-4ade-9859-b5c44d4267da)
 
+## Source des données
+Les données utilisées dans ce projet proviennent du tableau de bord des indicateurs statistiques de Parcoursup 2023, accessible à l'adresse suivante : https://www.enseignementsup-recherche.gouv.fr/fr/parcoursup-2023-tableau-de-bord-des-indicateurs-statistiques-91079
+
 ## Licence
-Ce projet est distribué sous la licence MIT. Voir le fichier LICENSE pour plus d'informations.
+Les données utilisées dans ce projet sont distribuées sous la licence ouverte 2.0 d'Etalab. Vous pouvez consulter les détails de cette licence en suivant ce lien : [Licence ouverte 2.0 d'Etalab](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
 
-N'hésitez pas à personnaliser ce README en ajoutant des sections supplémentaires ou en modifiant les informations existantes selon vos besoins. Assurez-vous également de fournir les instructions d'installation et d'utilisation appropriées pour que les autres utilisateurs puissent facilement exécuter votre projet.
+## Code source
+Le code source de ce projet est disponible sur GitHub à l'adresse suivante : [lien vers le dépôt GitHub](https://github.com/Ahhj93/Indicateur-Parcoursup-2023)
 
-J'espère que cela vous aide ! Si vous avez d'autres questions, n'hésitez pas à demander. 
+## Licence du code source
+Le code source de ce projet est distribué sous la licence MIT. Vous pouvez consulter les détails de cette licence dans le fichier LICENSE.
+
+Veuillez noter que les informations ci-dessus sont fournies à titre indicatif et que vous devez vous référer à la licence ouverte 2.0 d'Etalab pour les conditions spécifiques de réutilisation des données.
+
+Pour toute question concernant la licence des données, veuillez vous référer à la licence ouverte 2.0 d'Etalab. Pour toute question concernant la licence du code source, veuillez vous référer au fichier LICENSE.
+
+Pour plus d'informations sur le projet et son fonctionnement, veuillez consulter le code source et les fichiers associés.
