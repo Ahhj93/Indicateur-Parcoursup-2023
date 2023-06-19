@@ -1,5 +1,5 @@
 # Indicateur Parcoursup 2023
-Ce projet vise à afficher l'évolution des candidats en attente sur Parcoursup pour l'année 2023 à l'aide d'un histogramme en escalier.
+Ce projet vise à afficher l'évolution des candidats en attente sur Parcoursup pour l'année 2023 à l'aide d'un histogramme.
 
 ## Prérequis
 * Python 3.x
