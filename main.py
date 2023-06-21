@@ -25,7 +25,7 @@ x_labels = dates[x_ticks].dt.strftime('%d/%m')
 # Définir les positions et les étiquettes des ticks sur l'axe des x
 plt.xticks(x_ticks, x_labels, rotation=45)
 
-# Inverser l'axe y
+# Axe y
 plt.ylim(0, 400000)
 
 # Afficher le graphique
