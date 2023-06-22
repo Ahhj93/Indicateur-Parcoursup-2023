@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import matplotlib.ticker as mtick
 
 # Charger les données à partir du fichier CSV
 data = pd.read_csv('Parcoursup 2023 - Total.csv', delimiter=';')
