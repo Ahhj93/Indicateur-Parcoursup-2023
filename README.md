@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ## Utilisation
-1. Placez votre fichier CSV contenant les données de Parcoursup dans le répertoire du projet et assurez-vous qu'il est nommé Parcoursup 2023 - Total.csv.
+1. Placez votre fichier CSV contenant les données de Parcoursup dans le répertoire du projet et assurez-vous qu'il est nommé `Parcoursup 2023 - Total.csv`.
 
 2. Exécutez le script Python pour afficher le graphique :
 ```bash
