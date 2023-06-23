@@ -25,7 +25,7 @@ def main():
     # Ajouter les étiquettes et les titres
     plt.xlabel('Date')
     plt.ylabel('Nombre de candidats')
-    plt.title("Évolution du statut des candidats sur Parcoursup en 2023")
+    plt.title("Évolution en fonction du temps du statut des candidats sur Parcoursup en 2023")
 
     # Simplifier les étiquettes des dates
     x_ticks = range(0, len(dates), 3)
@@ -52,8 +52,8 @@ def main():
 
     # Afficher le graphique
     plt.tight_layout()
-    plt.savefig("Évolution du statut des candidats sur Parcoursup en 2023.svg")
-    print("Le graphique a été enregistré dans le fichier 'Évolution du statut des candidats sur Parcoursup en 2023'.")
+    plt.savefig("Évolution en fonction du temps du statut des candidats sur Parcoursup en 2023.svg")
+    print("Le graphique a été enregistré dans le fichier 'Évolution en fonction du temps du statut des candidats sur Parcoursup en 2023'.")
     plt.close()
 
 if __name__ == '__main__':
