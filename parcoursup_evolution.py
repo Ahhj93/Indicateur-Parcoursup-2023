@@ -25,7 +25,7 @@ def main():
     # Ajouter les étiquettes et les titres
     plt.xlabel('Date')
     plt.ylabel('Nombre de candidats')
-    plt.title("Évolution en fonction du temps du statut des candidats sur Parcoursup en 2023")
+    plt.title("Évolution en fonction du temps du statut\ndes candidats sur Parcoursup en 2023")
 
     # Simplifier les étiquettes des dates
     x_ticks = range(0, len(dates), 3)
