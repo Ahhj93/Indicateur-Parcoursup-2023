@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-3. Le graphique sera affiché dans une fenêtre séparée.
+3. Les graphiques seront enregistrés dans le répertoire du projet au format SVG.
 
 ## Aperçu du graphique
 <p align="center">
