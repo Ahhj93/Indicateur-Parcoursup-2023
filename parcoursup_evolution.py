@@ -25,14 +25,14 @@ def main():
     plt.figure(figsize=(8, 6))
 
     # Tracer l'histogramme empilé avec des barres collées
-    plt.bar(x, recus, width=1, color="green", label="Candidats admis")
+    plt.bar(x, recus, width=1.1, color="green", label="Candidats admis")
     plt.bar(
-        x, quittes, width=1, bottom=recus, color="red", label="Candidats ayant quitté"
+        x, quittes, width=1.1, bottom=recus, color="red", label="Candidats ayant quitté"
     )
     plt.bar(
         x,
         non_quittes,
-        width=1,
+        width=1.1,
         bottom=recus + quittes,
         color="orange",
         label="Candidats en attente",
@@ -76,6 +76,7 @@ def main():
     print(
         "Le graphique a été enregistré dans le fichier 'Évolution en fonction du temps du statut des candidats sur Parcoursup en 2023'."
     )
+    plt.show()
     plt.close()
 
 
