@@ -2,9 +2,9 @@
 Ce projet vise à afficher l'évolution des candidats sur Parcoursup pour l'année 2023.
 
 ## Prérequis
-* Python 3.x
-* Matplotlib
-* Pandas
+* Python 3.x 🐍
+* Matplotlib 📊
+* Pandas 🐼
 
 ## Installation
 1. Clonez ce dépôt de code sur votre machine locale :
