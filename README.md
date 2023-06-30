@@ -35,9 +35,9 @@ python main.py
 
 ## 👀 Aperçu du graphique
 <p align="center">
-  <img width="500" src="https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20sans%20affectation%20sur%20Parcoursup%20en%202023.svg">
-  <img width="500" src="https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20ayant%20re%C3%A7u%20des%20propositions%20sur%20Parcoursup%20en%202023.svg">
-  <img width="500" src="https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20statut%20des%20candidats%20sur%20Parcoursup%20en%202023.svg">
+  <img width="500" src="https://raw.githubusercontent.com/Ahhj93/Indicateur-Parcoursup-2023/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20sans%20affectation%20sur%20Parcoursup%20en%202023.svg">
+  <img width="500" src="https://raw.githubusercontent.com/Ahhj93/Indicateur-Parcoursup-2023/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20ayant%20re%C3%A7u%20des%20propositions%20sur%20Parcoursup%20en%202023.svg">
+  <img width="500" src="https://raw.githubusercontent.com/Ahhj93/Indicateur-Parcoursup-2023/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20statut%20des%20candidats%20sur%20Parcoursup%20en%202023.svg">
 </p>
 
 ## 🔍 Source des données
