@@ -41,7 +41,7 @@ python main.py
 </p>
 
 ## 🔍 Source des données
-Les données utilisées dans ce projet proviennent du tableau de bord des indicateurs statistiques de Parcoursup 2023, accessible à l'adresse suivante : https://www.enseignementsup-recherche.gouv.fr/fr/parcoursup-2023-tableau-de-bord-des-indicateurs-statistiques-91079
+Les données utilisées dans ce projet proviennent du tableau de bord des indicateurs statistiques de Parcoursup 2023 du Ministère de l’Enseignement supérieur et de la Recherche, accessible à l'adresse suivante : https://www.enseignementsup-recherche.gouv.fr/fr/parcoursup-2023-tableau-de-bord-des-indicateurs-statistiques-91079
 
 ## 📄 Licence
 Les données utilisées dans ce projet sont distribuées sous la licence ouverte 2.0 d'Etalab. Vous pouvez consulter les détails de cette licence en suivant ce lien : [Licence ouverte 2.0 d'Etalab](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
