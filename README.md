@@ -35,13 +35,13 @@ python main.py
 
 ## 👀 Aperçu du graphique
 <p align="center">
-  <img width="500" src="https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20sans%20affectation%20sur%20Parcoursup%20en%202023.svg">
-  <img width="500" src="https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20ayant%20re%C3%A7u%20des%20propositions%20sur%20Parcoursup%20en%202023.svg">
-  <img width="500" src="https://github.com/Ahhj93/Indicateur-Parcoursup-2023/blob/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20statut%20des%20candidats%20sur%20Parcoursup%20en%202023.svg">
+  <img width="500" src="https://raw.githubusercontent.com/Ahhj93/Indicateur-Parcoursup-2023/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20sans%20affectation%20sur%20Parcoursup%20en%202023.svg">
+  <img width="500" src="https://raw.githubusercontent.com/Ahhj93/Indicateur-Parcoursup-2023/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20nombre%20de%20candidats%20ayant%20re%C3%A7u%20des%20propositions%20sur%20Parcoursup%20en%202023.svg">
+  <img width="500" src="https://raw.githubusercontent.com/Ahhj93/Indicateur-Parcoursup-2023/main/%C3%89volution%20en%20fonction%20du%20temps%20du%20statut%20des%20candidats%20sur%20Parcoursup%20en%202023.svg">
 </p>
 
 ## 🔍 Source des données
-Les données utilisées dans ce projet proviennent du tableau de bord des indicateurs statistiques de Parcoursup 2023, accessible à l'adresse suivante : https://www.enseignementsup-recherche.gouv.fr/fr/parcoursup-2023-tableau-de-bord-des-indicateurs-statistiques-91079
+Les données utilisées dans ce projet proviennent du tableau de bord des indicateurs statistiques de Parcoursup 2023 du Ministère de l’Enseignement supérieur et de la Recherche, accessible à l'adresse suivante : https://www.enseignementsup-recherche.gouv.fr/fr/parcoursup-2023-tableau-de-bord-des-indicateurs-statistiques-91079
 
 ## 📄 Licence
 Les données utilisées dans ce projet sont distribuées sous la licence ouverte 2.0 d'Etalab. Vous pouvez consulter les détails de cette licence en suivant ce lien : [Licence ouverte 2.0 d'Etalab](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
