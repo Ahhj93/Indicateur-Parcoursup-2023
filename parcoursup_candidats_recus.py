@@ -7,7 +7,7 @@ def main():
     data = pd.read_csv("Parcoursup 2023 - Total.csv", delimiter=";")
 
     # Extraire les colonnes nécessaires
-    dates = pd.to_datetime(data["Date"], format="%d/%m")
+    dates = pd.to_datetime(data["Date"], format="%d/%m") # type: ignore
     recus = data["Candidats ayant reçu une ou plusieurs propositions d'admission"]
 
     # Créer les limites des bacs pour l'histogramme en escalier
@@ -30,7 +30,7 @@ def main():
     plt.ylim(0, 800000)
     plt.twinx()
     plt.ylim(0, (800000 / 827271) * 100)
-    plt.ylabel("Pourcentage en fonction du Nombre de candidats")
+    plt.ylabel("Pourcentage en fonction du nombre de candidats")
     plt.tight_layout()
     plt.savefig(
         "Évolution en fonction du temps du nombre de candidats ayant reçu des propositions sur Parcoursup en 2023.svg"

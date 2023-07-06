@@ -66,7 +66,7 @@ def main():
     # Définir les limites des axes y pour le pourcentage
     plt.ylim(0, 100)
     # Ajouter l'étiquette pour l'axe y du pourcentage
-    plt.ylabel("Pourcentage en fonction du Nombre de candidats")
+    plt.ylabel("Pourcentage en fonction du nombre de candidats")
 
     # Afficher le graphique
     plt.tight_layout()
