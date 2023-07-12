@@ -29,6 +29,10 @@ def main():
     x_ticks = range(0, len(dates), 3)
     x_labels = dates[x_ticks].dt.strftime("%d/%m") # type: ignore
     plt.xticks(x_ticks, x_labels, rotation=45)
+
+    # Ajuster les limites de l'axe x pour supprimer l'espace blanc à gauche
+    plt.xlim(0, len(dates) - 1)
+
     plt.ylim(0, 400000)
     plt.twinx()
     plt.ylim(0, (400000 / 827271) * 100)
